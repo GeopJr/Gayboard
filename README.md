@@ -36,7 +36,7 @@ Its pride month ᵃⁿᵈ ᴵ ᵃᵐ ᵛᵉʳʸ ᵍᵃʸ.
 You can see it at https://github.com/GeopJr/Gayboard#screenshots
 
 # Credits
-[z64](https://github.com/z64) - For the [AwaitManager](https://github.com/z64) and general help with Crystal
+[z64](https://github.com/z64) - For the [AwaitManager](https://gist.github.com/z64/664da118788889ce4740d4a62abd38e8) and general help with Crystal
 
 [Yimura](https://github.com/Yimura) - For testing everything
 
